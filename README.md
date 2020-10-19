@@ -2,7 +2,7 @@
 
 > First App for Microverse to understand Version Control & Project Management.
 
-![screenshot](./App_Screenshot.png)
+![screenshot](./App1_Screenshot.png)
 
 This project contains Web Pages, Stylesheets and other config files.
 
